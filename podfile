@@ -1,0 +1,4 @@
+platform :ios, '9.0'
+target "BGDBDemo" do 
+pod 'BGFMDB', '~> 1.41'
+end
